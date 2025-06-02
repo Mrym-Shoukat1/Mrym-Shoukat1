@@ -1,4 +1,4 @@
-# 👋 Asalam alaikum warahmatullah wabarakatu **Mariam Shoukat** 
+# 👋 Asalam alaikum warahmatullah wabarakatu **Maryam Shoukat** 
 
 ## 🚀 Full Stack Developer • AI Engineer • Data Scientist • Cloud Enthusiast  
 **🇵🇰 Based in Pakistan | 💻 Building the Future with Code + Intelligence**
