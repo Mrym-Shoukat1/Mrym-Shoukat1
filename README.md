@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mariam Shoukat (مریم شوکت)
+# 👋 Asalam alaikum warahmatullah wabarakatu **Mariam Shoukat** 
 
 ## 🚀 Full Stack Developer • AI Engineer • Data Scientist • Cloud Enthusiast  
 **🇵🇰 Based in Pakistan | 💻 Building the Future with Code + Intelligence**
