@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-I’m Mariam, a tech explorer with an insatiable passion for **AI**, **full-stack development**, and **cloud-native automation**. Whether it’s building **agentic workflows**, deploying **RAG-enabled chatbots**, or scaling **Next.js** apps to the cloud—I’m all in.
+I’m Maryam, a tech explorer with an insatiable passion for **AI**, **full-stack development**, and **cloud-native automation**. Whether it’s building **agentic workflows**, deploying **RAG-enabled chatbots**, or scaling **Next.js** apps to the cloud—I’m all in.
 
 I'm currently working with **CodAgentic**, where I develop advanced web platforms, build automation pipelines, and contribute to bleeding-edge AI projects. I don’t just write code—I innovate across the entire tech spectrum: **A to Z**.
 
