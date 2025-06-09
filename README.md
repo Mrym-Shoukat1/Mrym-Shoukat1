@@ -1,4 +1,4 @@
-# 👋 As-salamu Alaikum, I'm **Maryam Shoukat**!
+# 👋 As-salamu-Alaikum , I'm **Maryam Shoukat**!   data analyst
 
 ### 🚀 AI Engineer • Full Stack Developer • Cloud Enthusiast  
 **🇵🇰 Based in Pakistan | 🧠 Building Smart Systems for a Smarter World**
