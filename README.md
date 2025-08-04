@@ -1,4 +1,4 @@
-# 👋 As-salamu-Alaikum, I'm **Maryam Shoukat**!  
+# 👋 As-salamu-Alaikum, I'm **Maryam Fatima**!  
 
 ### 🎯 Aspiring Data Analyst | AI Automation Learner | WordPress Developer  
 **📍 Based in Pakistan | 💻 Turning Data into Insights and data visualization using power BI **
